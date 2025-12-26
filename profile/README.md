@@ -51,16 +51,15 @@ Primary user-facing application.
 
 ---
 
-### FitRang Admin / Internal App
+### FitRang Main
 
-Internal dashboard for managing system data and operations.
-
-* Moderation
-* Analytics views
-* Internal tooling
-
+Repository to kick-start the project, just clone this and run:
+```bash
+docker compose buid --no-cache
+docker compose up
+```
 🔗 Repository:
-[https://github.com/FitRang/fitrang-admin](https://github.com/FitRang/fitrang-admin)
+[https://github.com/FitRang/fitrang-main](https://github.com/FitRang/fitrang-main)
 
 ---
 
